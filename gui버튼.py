@@ -1,5 +1,5 @@
 from tkinter import *
-
+수정사항
 root=Tk()
 root.title('실시간 키워드 순위') # 창 타이틀 제목
 root.geometry('640x480+100+100') # 창의 가로x세로+x좌표+y좌표 크기 지정(왼쪽 끝 기준)
